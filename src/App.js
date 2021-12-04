@@ -6,7 +6,7 @@ import hot from './static/image/hot.jpg'
 
 const api={
   key:'a099da34fdcd728112342f389af92965',
-  base:'http://api.openweathermap.org/data/2.5/'
+  base:'https://api.openweathermap.org/data/2.5/'
 }
 const defaut='ho chi minh'
 const days = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday']
